@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hello! I am Ignacio, a 22-year-old young programmer, originally from Córdoba, Argentina. Since I discovered the fascinating world of programming, I have been completely passionate about learning and growing in this field. I love facing challenges and finding creative solutions to complex problems.<br><br>I specialize in React, Tailwind and JavaScript, and I'm always open to exploring new tools and technologies. My goal is not only to stand out from the rest, but also to contribute to innovative projects that make a difference. I'm looking forward to collaborating with other developers and learning from their experiences, as well as sharing my own knowledge.<br><br>If you are looking for an enthusiastic and committed collaborator, do not hesitate to contact me! I am ready to immerse myself in projects that allow me to continue growing and adding value.<br><br>Let's talk and do something amazing together!
+Hi there! I'm Ignacio, a 22-year-old programmer from Córdoba, Argentina. Since I discovered the fascinating world of programming, I’ve been completely passionate about learning and growing in this field. I love tackling challenges and finding creative solutions to complex problems.
+
+I specialize in React, Tailwind, and JavaScript, and I’m always eager to explore new tools and technologies. My goal is not only to stand out but also to contribute to innovative projects that make a difference. I’m excited to collaborate with other developers, learn from their experiences, and share my own knowledge.
+
+If you're looking for an enthusiastic and committed collaborator, don’t hesitate to reach out! I’m ready to dive into projects that allow me to keep growing and adding value.
+
+Let’s connect and create something amazing together!
 
 
 ## 🌐 Socials:
